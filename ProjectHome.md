@@ -1,0 +1,1 @@
+Sistem pendukung keputusan dalam proses penyeleksian kepala sekolah SMA Negeri pada Dinas Pendidikan Kabupaten Kuningan menggunakan metode Simple Adittive Weighting (SAW)
